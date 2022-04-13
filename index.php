@@ -101,7 +101,7 @@
             <div class="col-md-6">
                 <div class="banner-content">
                     <h3> <br /> </h3><br />
-                    <p><b>TRATAMIENTO QUIMICO Y BIOLOGICO PARA PLANTAS DE TRATAMIENTO DE AGUA RESIDUAL; AGUA PARA CALDERAS; AGUA PARA
+                    <p style="font-size: large;"><b>TRATAMIENTO QUIMICO Y BIOLOGICO PARA PLANTAS DE TRATAMIENTO DE AGUA RESIDUAL; AGUA PARA CALDERAS; AGUA PARA
 <br/>SISTEMAS DE ENFRIAMIENTO;<br/> AGUA DE ALBERCAS Y AGUA PURIFICADA.</b></p>
                     <a href="#contacto" class="banner-btn">CONTACTO</a>
                 </div><!-- /.banner-content -->
