@@ -110,8 +110,8 @@
         <div class="thm-container">
             <div class="row">
                 <div class="col-md-6">
-                    <div class="banner-content">
-                        <h3 title="GRUPO CREQUIMSA" alt="GRUPO CREQUIMSA" style="font-size: 36px;">GRUPO CREQUIMSA S.A.S.  <br /> </h3><br />
+                    <div class="banner-content"><br />
+                        <h3 title="GRUPO CREQUIMSA" alt="GRUPO CREQUIMSA" style="font-size: 36px;">GRUPO CREQUIMSA S.A.S.   </h3><br />
                         <p style="font-size: 26px;"><b>TRATAMIENTO QUIMICO Y BIOLOGICO PARA PLANTAS DE TRATAMIENTO DE AGUA RESIDUAL; AGUA PARA CALDERAS; AGUA PARA
                                 <br />SISTEMAS DE ENFRIAMIENTO;<br /> AGUA DE ALBERCAS Y AGUA PURIFICADA.</b></p>
                         <a href="#contacto" class="banner-btn">CONTACTO</a>
